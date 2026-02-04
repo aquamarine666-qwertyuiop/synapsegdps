@@ -1,27 +1,17 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
+        "role": "владелец сайта, гдпс",
+        "name": "umbrellagd, k1flenko",
+        "link": "https://www.youtube.com/watch?v=YbaTur4A1OU"
+    },
+    {
+        "role": "админы сайта",
+        "name": "никто",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
+        "role": "помошник",
+        "name": "никто",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
 ]
